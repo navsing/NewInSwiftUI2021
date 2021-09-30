@@ -5,3 +5,4 @@ Every WWDC, Apple introduces brand new features to SwiftUI. As I read through th
 
 1. 09/15/2021 - Async Image
 2. 09/22/2021 - Badges in Tab bar and List
+3. 09/29/2021 - Swipe Actions on List Item
